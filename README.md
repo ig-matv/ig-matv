@@ -1,6 +1,6 @@
 ## 🧪 QA em formação
 
-Olá! Sou estudante de Qualidade de Software, aprendendo a garantir que tudo funcione como deveria.
+Olá meu nome é Igor sou estudante de Qualidade de Software, aprendendo a garantir que tudo funcione como deveria.
 
 ### 🛠️ O que já sei fazer
 - Criar **planos de teste** estruturados
