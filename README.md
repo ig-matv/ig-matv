@@ -1,15 +1,33 @@
-## 🧪 QA em formação
+# Olá, eu sou Igor Matvicio
 
-Olá meu nome é Igor sou estudante de Qualidade de Software, aprendendo a garantir que tudo funcione como deveria.
-
-### 🛠️ O que já sei fazer
-- Criar **planos de teste** estruturados
-- Escrever **cenários e casos de teste** claros
-- Testar APIs com **Postman**
-
-### 📌 Foco atual
-Aplicar boas práticas de testes para entregar produtos com mais qualidade e confiabilidade.
+Sou estudante de **Qualidade de Software (QA)**
 
 ---
 
-📫 *Em busca da primeira oportunidade na área de QA*
+## O que faço
+
+- Criação de **planos de teste estruturados**
+- Escrita de **cenários e casos de teste claros**
+- Testes de **APIs** usando Postman
+- Automação de testes **mobile** com Maestro
+- Experimentação prática de **QA em projetos reais**
+
+---
+
+## Repositórios em destaque
+
+1. **testes-qa** – projetos de aprendizado em QA e testes manuais.  
+2. **tests-API** – testes de APIs para garantir confiabilidade e desempenho.  
+3. **maestro-mobile-testes** – automação de testes em apps mobile.  
+
+---
+
+## Foco atual
+
+Aplicar boas práticas de QA, automatizar testes e entregar produtos com **mais qualidade e confiabilidade**.
+
+---
+
+## Vamos nos conectar
+
+- [LinkedIn](https://www.linkedin.com/in/igor-matvicio-5739263a9)
