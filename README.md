@@ -32,7 +32,7 @@ Aplicar boas práticas de QA, automatizar testes e entregar produtos com **mais 
 
 - [LinkedIn](https://www.linkedin.com/in/igor-matvicio-5739263a9)
 
-#English version
+# English version
 
 # Hi, I'm Igor Matvicio 👋
 
