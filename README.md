@@ -1,23 +1,33 @@
-# Olá, eu sou Igor Matvicio
+#  Olá, eu sou Igor Matvicio
 
-Sou estudante de **Qualidade de Software (QA)**
-
----
-
-## O que faço
-
-- Criação de **planos de teste estruturados**
-- Escrita de **cenários e casos de teste claros**
-- Testes de **APIs** usando Postman
+ Estudante de Qualidade de Software (QA) focado em testes manuais e automação, com experiência prática na criação, execução e documentação de testes.
 
 ---
 
-## Foco atual
+##  Sobre mim
 
-Aplicar boas práticas de QA, automatizar testes e entregar produtos com **mais qualidade e confiabilidade**.
+Tenho experiência na validação de aplicações web, atuando na criação de cenários de teste claros e estruturados, garantindo a qualidade e confiabilidade das funcionalidades.
 
 ---
 
-## Vamos nos conectar
+##  Habilidades
 
-- [LinkedIn](https://www.linkedin.com/in/igor-matvicio-5739263a9)
+* Criação de casos de teste e cenários em BDD (Gherkin)
+* Execução de testes funcionais
+* Testes de API utilizando Postman
+* Gestão de tarefas e bugs com Jira
+* Conhecimentos básicos em automação com Cypress e Maestro
+* Noções de JavaScript aplicadas a testes
+
+---
+
+##  Projetos
+
+*  Projeto de Testes (Login e Cadastro)
+  🔗 [[Link do projeto aqui]](https://github.com/ig-matv/qa-project-ecommerce/tree/main?tab=readme-ov-file)
+
+---
+
+##  Vamos nos conectar
+
+*  LinkedIn: [seu link aqui]
