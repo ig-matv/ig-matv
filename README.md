@@ -30,4 +30,4 @@ Tenho experiência na validação de aplicações web, atuando na criação de c
 
 ##  Vamos nos conectar
 
-*  LinkedIn: [seu link aqui]
+*  LinkedIn: [[seu link aqui]](https://www.linkedin.com/in/igor-matvicio-5739263a9/)
