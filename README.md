@@ -26,6 +26,9 @@ Tenho experiência na validação de aplicações web, atuando na criação de c
 *  Projeto de Testes (Login e Cadastro)
   🔗 [[Link do projeto aqui]](https://github.com/ig-matv/qa-project-ecommerce/tree/main?tab=readme-ov-file)
 
+*  Projeto de Relatório de Bugs
+  🔗 [[Link do projeto aqui]] (https://github.com/ig-matv/relatorio-de-bugs)
+
 ---
 
 ##  Vamos nos conectar
