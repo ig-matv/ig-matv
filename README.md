@@ -33,8 +33,8 @@ Atuo na validação de aplicações web, garantindo que cada funcionalidade seja
 
 | Projeto | Link |
 |---------|------|
-| **Projeto de Testes (Login e Cadastro)** | [![Projetos](https://img.shields.io/badge/Projetos-8000ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ig-matv/qa-project-ecommerce/tree/main?tab=readme-ov-file) |
-| **Projeto de Relatório de Bugs** | [![Projetos](https://img.shields.io/badge/Projetos-8000ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ig-matv/relatorio-de-bugs) |
+| **Projeto de Testes (Login e Cadastro)** | [![Projeto 01](https://img.shields.io/badge/Projetos-8000ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ig-matv/qa-project-ecommerce/tree/main?tab=readme-ov-file) |
+| **Projeto de Relatório de Bugs** | [![Projeto 02](https://img.shields.io/badge/Projetos-8000ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ig-matv/relatorio-de-bugs) |
 
 ---
 
