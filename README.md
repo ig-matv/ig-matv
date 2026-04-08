@@ -40,6 +40,6 @@ Atuo na validação de aplicações web, garantindo que cada funcionalidade seja
 
 ## Vamos nos conectar
 
-<a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
+<a href="https://www.linkedin.com/in/igor-matvicio-5739263a9/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>
 </a>
