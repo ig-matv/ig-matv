@@ -8,7 +8,7 @@
 
 # Olá, eu sou Igor Matvicio
 
-Estudante de Qualidade de Software (QA) focado em testes manuais e automação, com experiência prática na criação, execução e documentação de testes.
+Estudante de Qualidade de Software focado em testes manuais e automação, com experiência prática na criação, execução e documentação de testes.
 
 ---
 
@@ -20,7 +20,7 @@ Atuo na validação de aplicações web, garantindo que cada funcionalidade seja
 
 ## Habilidades
 
-- Criação de casos de teste e cenários em **BDD (Gherkin)**  
+- Criação de casos de teste e cenários em **Gherkin**
 - Execução de **testes funcionais**  
 - Testes de **API com Postman**  
 - Gestão de **tarefas e bugs com Jira**  
@@ -30,16 +30,13 @@ Atuo na validação de aplicações web, garantindo que cada funcionalidade seja
 ---
 
 ## Projetos
-
-| Projeto | Link |
-|---------|------|
-| **Projeto de Testes (Login e Cadastro)** | [![Projeto 01](https://img.shields.io/badge/Projetos-8000ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ig-matv/qa-project-ecommerce/tree/main?tab=readme-ov-file) |
-| **Projeto de Relatório de Bugs** | [![Projeto 02](https://img.shields.io/badge/Projetos-8000ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ig-matv/relatorio-de-bugs) |
+[![Projeto 01](https://img.shields.io/badge/Projeto_de_Testes-8000ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ig-matv/qa-project-ecommerce/tree/main?tab=readme-ov-file) 
+[![Projeto 02](https://img.shields.io/badge/Relatório_de_Bugs-8000ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ig-matv/relatorio-de-bugs) 
 
 ---
 
 ## Vamos nos conectar
 
 <a href="https://www.linkedin.com/in/igor-matvicio-5739263a9/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="80"/>
 </a>
