@@ -31,12 +31,15 @@ Atuo na validação de aplicações web, garantindo que cada funcionalidade seja
 
 ## Projetos
 
-**Projeto de Testes (Login e Cadastro)** [![Projetos](https://img.shields.io/badge/Projetos-8000ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ig-matv/qa-project-ecommerce/tree/main?tab=readme-ov-file)  
-
-**Projeto de Relatório de Bugs** [![Projetos](https://img.shields.io/badge/Projetos-8000ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ig-matv/relatorio-de-bugs)  
+| Projeto | Link |
+|---------|------|
+| **Projeto de Testes (Login e Cadastro)** | [![Projetos](https://img.shields.io/badge/Projetos-8000ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ig-matv/qa-project-ecommerce/tree/main?tab=readme-ov-file) |
+| **Projeto de Relatório de Bugs** | [![Projetos](https://img.shields.io/badge/Projetos-8000ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ig-matv/relatorio-de-bugs) |
 
 ---
 
 ## Vamos nos conectar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-8000ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-matvicio-5739263a9/)
+<a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>
+</a>
