@@ -8,13 +8,17 @@
 
 # Olá, eu sou Igor Matvicio
 
-Estudante de Qualidade de Software focado em testes manuais e automação, com experiência prática na criação, execução e documentação de testes.
+*Estudante de QA focado em testes manuais e de API, com experiência em criação de cenários, execução, documentação de testes e validação de funcionalidades*
 
 ---
 
 ## Sobre mim
 
-Atuo na validação de aplicações web, garantindo que cada funcionalidade seja testada com precisão e confiabilidade. Crio cenários de teste claros e estruturados, sempre buscando excelência na qualidade do software.
+*Atuo na validação de aplicações web e APIs, garantindo que cada funcionalidade seja testada com precisão, confiabilidade e alinhamento aos requisitos*
+
+*Tenho experiência na criação de cenários de teste claros e estruturados, utilizo Gherkin (BDD) para descrever o comportamento esperado da aplicação de forma organizada e compreensível, contribuindo para uma melhor comunicação entre as áreas.*
+
+*Busco sempre excelência na qualidade do software, com foco em testes bem documentados, consistência e melhoria contínua.*
 
 ---
 
