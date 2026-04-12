@@ -48,3 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="80"/>
 </a>
 
+<p align="right">
+  <img src="assets/Vegeta.png" width="200"/>
+</p>
