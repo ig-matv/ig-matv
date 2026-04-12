@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/JAVA SCRIPT-000?style=for-the-badge&logoColor=white"/>
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 
 ## Sobre mim
 
