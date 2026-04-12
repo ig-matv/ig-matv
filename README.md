@@ -11,10 +11,13 @@
   <img src="https://img.shields.io/badge/JAVA SCRIPT-000?style=for-the-badge&logoColor=white"/>
 </p>
 
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 <p align="center">
   <img src="assets/Sobre-mim.png" width="500"/>
 </p>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 *Olá, meu nome é Igor Matvicio atuo na validação de aplicações web e APIs, garantindo que cada funcionalidade seja testada com precisão, confiabilidade e alinhamento aos requisitos*
 
