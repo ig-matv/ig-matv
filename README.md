@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="assets/Banner.png" width="700"/>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/QA TESTER-8000ff?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/POSTMAN-8000ff?style=for-the-badge&logoColor=white"/>
@@ -47,6 +52,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="80"/>
 </a>
 
-<p align="center">
-  <img src="assets/Banner.png" width="700"/>
-</p>
