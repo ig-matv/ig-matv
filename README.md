@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img src="assets/Sobre-mim.png" width="900"/>
+  <img src="assets/Sobre-mim.png" width="500"/>
 </p>
 
 *Olá, meu nome é Igor Matvicio atuo na validação de aplicações web e APIs, garantindo que cada funcionalidade seja testada com precisão, confiabilidade e alinhamento aos requisitos*
