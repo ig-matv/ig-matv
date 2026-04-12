@@ -47,7 +47,3 @@
 <a href="https://www.linkedin.com/in/igor-matvicio-5739263a9/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="80"/>
 </a>
-
-<p align="right">
-  <img src="assets/Vegeta-2.png" width="80"/>
-</p>
