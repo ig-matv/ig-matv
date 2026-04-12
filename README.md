@@ -11,15 +11,10 @@
   <img src="https://img.shields.io/badge/JAVA SCRIPT-000?style=for-the-badge&logoColor=white"/>
 </p>
 
-# Olá, eu sou Igor Matvicio
-
-*Estudante de QA focado em testes manuais e de API, com experiência em criação de cenários, execução, documentação de testes e validação de funcionalidades*
-
----
 
 ## Sobre mim
 
-*Atuo na validação de aplicações web e APIs, garantindo que cada funcionalidade seja testada com precisão, confiabilidade e alinhamento aos requisitos*
+*Olá, meu nome é Igor Matvicio atuo na validação de aplicações web e APIs, garantindo que cada funcionalidade seja testada com precisão, confiabilidade e alinhamento aos requisitos*
 
 *Tenho experiência na criação de cenários de teste claros e estruturados, utilizo Gherkin (BDD) para descrever o comportamento esperado da aplicação de forma organizada e compreensível, contribuindo para uma melhor comunicação entre as áreas.*
 
