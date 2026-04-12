@@ -49,5 +49,5 @@
 </a>
 
 <p align="right">
-  <img src="assets/Vegeta.png" width="200"/>
+  <img src="assets/Vegeta-2.png" width="200"/>
 </p>
