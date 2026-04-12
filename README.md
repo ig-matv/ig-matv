@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/QA TESTER-8000ff?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/POSTMAN-8000ff?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CYPRESS-8000ff?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MAESTRO-8000ff?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JAVA SCRIPT-8000ff?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QA TESTER-000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/POSTMAN-000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CYPRESS-000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MAESTRO-000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVA SCRIPT-000?style=for-the-badge&logoColor=white"/>
 </p>
 
 # Olá, eu sou Igor Matvicio
@@ -39,9 +39,9 @@
 ---
 
 ## Projetos
-[![Projeto 01](https://img.shields.io/badge/Projeto_de_Testes-8000ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ig-matv/qa-project-ecommerce/tree/main?tab=readme-ov-file) 
-[![Projeto 02](https://img.shields.io/badge/Relatório_de_Bugs-8000ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ig-matv/relatorio-de-bugs) 
-[![Projeto 03](https://img.shields.io/badge/Relatório_de_Testes_de_API-8000ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ig-matv/relatorio-de-testes-de-api) 
+[![Projeto 01](https://img.shields.io/badge/Projeto_de_Testes-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ig-matv/qa-project-ecommerce/tree/main?tab=readme-ov-file) 
+[![Projeto 02](https://img.shields.io/badge/Relatório_de_Bugs-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ig-matv/relatorio-de-bugs) 
+[![Projeto 03](https://img.shields.io/badge/Relatório_de_Testes_de_API-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ig-matv/relatorio-de-testes-de-api) 
 
 
 ---
