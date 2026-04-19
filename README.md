@@ -29,7 +29,7 @@
 - Execução de **testes funcionais**  
 - Testes de **API com Postman**  
 - Gestão de **tarefas e bugs com Jira**  
-- Conhecimentos básicos em **automação com Cypress e Maestro**  
+- Conhecimentos em **automação com Cypress**  
 - Noções de **JavaScript aplicadas a testes**  
 
 ---
