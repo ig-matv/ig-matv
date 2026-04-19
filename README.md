@@ -38,6 +38,7 @@
 [![Projeto 01](https://img.shields.io/badge/Projeto_de_Testes-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ig-matv/qa-project-ecommerce/tree/main?tab=readme-ov-file) 
 [![Projeto 02](https://img.shields.io/badge/Relatório_de_Bugs-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ig-matv/relatorio-de-bugs) 
 [![Projeto 03](https://img.shields.io/badge/Relatório_de_Testes_de_API-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ig-matv/relatorio-de-testes-de-api) 
+[![Projeto 03](https://img.shields.io/badge/Relatório_de_Cypress-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ig-matv/automacao-cypress)
 
 
 ---
