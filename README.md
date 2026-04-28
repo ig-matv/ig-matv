@@ -39,6 +39,8 @@
 [![Projeto 02](https://img.shields.io/badge/Relatório_de_Bugs-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ig-matv/relatorio-de-bugs) 
 [![Projeto 03](https://img.shields.io/badge/Relatório_de_Testes_de_API-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ig-matv/relatorio-de-testes-de-api) 
 [![Projeto 04](https://img.shields.io/badge/Automação_Cypress-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ig-matv/automacao-cypress)
+[![Projeto 05](https://img.shields.io/badge/Biblioteca_de_Casos_de_Teste-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ig-matv/biblioteca-de-casos-de-teste)
+[![Projeto 06](https://img.shields.io/badge/Automação_API-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ig-matv/automacao-api-chess-com)
 
 
 ---
