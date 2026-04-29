@@ -41,6 +41,7 @@
 [![Projeto 04](https://img.shields.io/badge/Automação_Cypress-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ig-matv/automacao-cypress)
 [![Projeto 05](https://img.shields.io/badge/Biblioteca_de_Casos_de_Teste-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ig-matv/biblioteca-de-casos-de-teste)
 [![Projeto 06](https://img.shields.io/badge/Automação_API-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ig-matv/automacao-api-chess-com)
+[![Projeto 07](https://img.shields.io/badge/Biblioteca_de_Casos_de_Bug_Reports-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ig-matv/biblioteca-de-bugs-reports)
 
 
 ---
