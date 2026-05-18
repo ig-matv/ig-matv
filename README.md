@@ -46,7 +46,7 @@
 
 ## Meu Gitlab
 
-[![GitLab](https://gitlab.com/ig-matv)
+[GitLab](https://gitlab.com/ig-matv)
 
 ## Meu linkedin
 
