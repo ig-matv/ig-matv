@@ -46,7 +46,7 @@
 
 ## Meu Gitlab
 
-[GitLab](https://gitlab.com/ig-matv)
+[![Gitlab](https://img.shields.io/badge/GitLab-000?style=for-the-badge&logo=github&logoColor=white)](https://gitlab.com/ig-matv)
 
 ## Meu linkedin
 
