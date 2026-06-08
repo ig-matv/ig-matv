@@ -61,11 +61,7 @@ Tenho foco na qualidade do software através de testes bem documentados, execuç
 ## Contato
 
 <p>
-  <a href="https://linkedin.com/in/SEU-LINKEDIN">
+  <a href="[https://linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/igor-matvicio-5739263a9/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="https://gitlab.com/SEU-GITLAB">
-    <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white">
   </a>
 </p>
