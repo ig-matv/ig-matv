@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Cypress-Automação%20Web-69D3A7?style=for-the-badge&logo=cypress&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-Testes%20de%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Maestro-Mobile%20Testing-000000?style=for-the-badge">
   <img src="https://img.shields.io/badge/Jira-Gestão%20de%20Bugs-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 </p>
 
