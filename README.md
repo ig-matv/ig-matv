@@ -33,7 +33,7 @@ Tenho foco na qualidade do software através de testes bem documentados, execuç
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
-  <img src="https://img.shields.io/badge/Maestro-Mobile_Testing-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Maestro-black?style=for-the-badge">
 </p>
 
 ---
