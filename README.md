@@ -61,7 +61,7 @@ Tenho foco na qualidade do software através de testes bem documentados, execuç
 ## Contato
 
 <p>
-  <a href="(https://www.linkedin.com/in/igor-matvicio-5739263a9/)">
+  <a href="https://www.linkedin.com/in/igor-matvicio-5739263a9/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
