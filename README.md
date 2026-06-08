@@ -28,9 +28,6 @@ Tenho foco na qualidade do software através de testes bem documentados, execuç
 
 ## Tecnologias e Ferramentas
 
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,git,github,vscode" />
-</p>
 
 <p>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
