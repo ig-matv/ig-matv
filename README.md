@@ -1,5 +1,5 @@
-<h1 align="center">👋 Olá, eu sou Igor Matvicio</h1>
-<h3 align="center">🔍 Quality Assurance Engineer</h3>
+<h1 align="center"> Olá, eu sou Igor Matvicio</h1>
+<h3 align="center"> Quality Assurance Engineer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Foco-Qualidade%20de%20Software-69D3A7?style=flat-square&labelColor=1a1a2e" />
@@ -9,7 +9,7 @@
 
 ---
 
-## 🛠️ Tecnologias Principais
+##  Tecnologias Principais
 
 <p align="center">
   &nbsp;&nbsp;
@@ -23,7 +23,7 @@
 
 ---
 
-## 👤 Sobre Mim
+##  Sobre Mim
 
 Olá! Meu nome é **Igor Matvicio**, atuo como **Quality Assurance Engineer** com foco em validação de aplicações web e APIs.
 
@@ -42,9 +42,9 @@ Feature: Igor Matvicio - QA Engineer
 
 ---
 
-## ⚙️ Stack Completa
+##  Stack Completa
 
-### 🔍 Automação & Testes
+###  Automação & Testes
 <p>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
@@ -52,14 +52,14 @@ Feature: Igor Matvicio - QA Engineer
   <img src="https://img.shields.io/badge/Maestro-000000?style=for-the-badge&logoColor=white" />
 </p>
 
-### 🧩 BDD & Documentação
+###  BDD & Documentação
 <p>
   <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
   <img src="https://img.shields.io/badge/Gherkin-BDD-6DB33F?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
-### 💻 Linguagens & Versionamento
+###  Linguagens & Versionamento
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -68,21 +68,21 @@ Feature: Igor Matvicio - QA Engineer
 
 ---
 
-## 📋 Habilidades
+##  Habilidades
 
 | Área | Habilidades |
 |------|------------|
-| 🤖 **Automação Web** | Cypress · Playwright |
-| 📱 **Automação Mobile** | Maestro |
-| 🌐 **Testes de API** | Postman · REST |
-| 📝 **BDD** | Gherkin · Cucumber · Feature Files |
-| 🐛 **Gestão de Qualidade** | Criação de Casos de Teste · Testes Exploratórios · Relatórios de Bugs |
-| 🔧 **Ferramentas** | Jira · Git · GitHub |
-| 💻 **Dev** | JavaScript aplicado à Automação |
+|  **Automação Web** | Cypress · Playwright |
+|  **Automação Mobile** | Maestro |
+|  **Testes de API** | Postman · REST |
+|  **BDD** | Gherkin · Cucumber · Feature Files |
+|  **Gestão de Qualidade** | Criação de Casos de Teste · Testes Exploratórios · Relatórios de Bugs |
+|  **Ferramentas** | Jira · Git · GitHub |
+|  **Dev** | JavaScript aplicado à Automação |
 
 ---
 
-## 📫 Contato
+##  Contato
 
 <p>
   <a href="https://www.linkedin.com/in/igor-matvicio-5739263a9/" target="_blank">
